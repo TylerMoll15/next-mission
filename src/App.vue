@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./clint_pic.jpg">
-  <HelloWorld msg="Shalom my man"/>
+  <HelloWorld msg="Shalom my man! I do pardon the interruption"/>
 </template>
 
 <script>
